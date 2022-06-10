@@ -1,15 +1,15 @@
 .feynman__link {
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  position: absolute;
-  top: 445px;
-  right: 48px;
-  text-decoration: none;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    position: absolute;
+    top: 445px;
+    right: 48px;
+    text-decoration: none;
+    font-family: 'Inter', Arial, sans-serif;
 }
 
 .feynman__link:hover {
-  opacity: 0.4;
-  transition: 0.35s;
-
+    opacity: 0.4;
+    transition: 0.35s;
 }
