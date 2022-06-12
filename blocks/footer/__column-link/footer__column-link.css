@@ -1,13 +1,13 @@
 .footer__column-link {
-    text-decoration: none;
-    line-height: 18px;
-    font-size: 18px;
-    font-weight: normal;
-    color: white;
-    font-family: 'Inter', Arial, sans-serif;
+  text-decoration: none;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 .footer__column-link:hover {
-    opacity: 0.4;
-    transition: 0.35s;
+  opacity: 0.4;
+  transition: 0.35s;
 }
